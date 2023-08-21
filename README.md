@@ -14,8 +14,8 @@ Welcome to the Card Match Game! This is a simple card game where you'll be pitte
 
 ## Screenshots
 
-![App Screenshot](https://github.com/BilalMagomedov/JavaGui_CardGame/assets/53838499/72146704-3b0e-4923-b4da-bf52aa1eec69)
+![java_domVusoSfz](https://github.com/BilalMagomedov/JavaGui_CardGame/assets/53838499/72015ad6-22dd-4f66-8603-b7cea1807cdb)
 
-![App Screenshot](https://github.com/BilalMagomedov/JavaGui_CardGame/assets/53838499/922728ec-c4c7-47be-9318-a1f2b4bbf200)
+![java_Xl4PoGi0TS](https://github.com/BilalMagomedov/JavaGui_CardGame/assets/53838499/0ca3c956-5609-4315-8fc3-58396fcd7e1d)
 
-![App Screenshot](https://github.com/BilalMagomedov/JavaGui_CardGame/assets/53838499/ca49c788-e63e-405c-a71a-fa9349885e94)
+![java_zv4CgRuT7G](https://github.com/BilalMagomedov/JavaGui_CardGame/assets/53838499/8aedd5dc-2628-4969-a25c-250111d89349)
