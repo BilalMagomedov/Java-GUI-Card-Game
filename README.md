@@ -1,5 +1,5 @@
 
-# Card Match Game in Java GUI
+# Card Match Game by using Java GUI
 
 Welcome to the Card Match Game! This is a simple card game where you'll be pitted against the computer in a card-matching showdown.
 
